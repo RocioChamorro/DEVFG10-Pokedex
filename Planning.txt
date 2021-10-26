@@ -1,0 +1,12 @@
+Pokedex
+-------
+|-Crear repo
+-Estructura del proyecto
+-Instalar Materialize, fontawesome, font..
+
+-Listar tarjetas
+-Fondo de pokedex
+-modal
+-Buscardor por nombre
+
+-Desplegar proyecto (rama pages)

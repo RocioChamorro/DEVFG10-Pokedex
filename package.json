@@ -1,0 +1,24 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "Página de web de Pokemones",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RocioChamorro/DEVFG10-Pokedex.git"
+  },
+  "author": "Rocio Chamorro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RocioChamorro/DEVFG10-Pokedex/issues"
+  },
+  "homepage": "https://github.com/RocioChamorro/DEVFG10-Pokedex#readme",
+  "dependencies": {
+    "jsdom": "^18.0.0",
+    "materialize-css": "^1.0.0-rc.2",
+    "request": "^2.88.2"
+  }
+}
